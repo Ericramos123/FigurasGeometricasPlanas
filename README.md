@@ -12,3 +12,6 @@ Propriedades básicas das figuras planas
 Contém os exercicios calculando todas as formas geométricas em forma de classe
 ## Principal
 Contém a classe principal que chama todas as classes de formas geométricas
+
+#  Diagrama
+O arquivo "Formas Geométricas Planas.pdf" contém o diagrama solicitado pelo professor contendo os parâmetros de cada figura geométrica plana
