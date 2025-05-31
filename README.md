@@ -1,4 +1,4 @@
-# Exercícios de Figuras Geométricas Planas 🔵🟧▲
+# Exercícios de Figuras Geométricas Planas  (HERANÇA, ENCAPSULAMENTO E ABSTRAÇÃO) 🔵🟧▲
 Este repositório contém uma pasta dedicada aos exercícios sobre figuras geométricas planas. Os exercícios abordam conceitos fundamentais como:
 
 Identificação de formas geométricas (triângulo, quadrado, retângulo, círculo, etc.)
@@ -13,5 +13,10 @@ Contém os exercicios calculando todas as formas geométricas em forma de classe
 ## Principal
 Contém a classe principal que chama todas as classes de formas geométricas
 
-#  Diagrama
-O arquivo "Formas Geométricas Planas.pdf" contém o diagrama solicitado pelo professor contendo os parâmetros de cada figura geométrica plana
+#  Diagramas
+Aqui estão todos os diagramas correspondente a cada exercício de formas geométricas
+
+- ## ABSTRAÇÃO
+![Formas Geométricas Planas(DIAGRAMA)](https://github.com/user-attachments/assets/c5c47d7c-908c-4bc6-8fd5-85cdf56c5d25)
+
+
